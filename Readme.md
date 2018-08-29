@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Сорокин](https://up.htmlacademy.ru/javascript/15/user/428923).
-* Наставник: `Неизвестно`.
+* Наставник: `Не оплачен`.
 
 ---
 
